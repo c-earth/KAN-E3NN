@@ -2,3 +2,4 @@
 *.out
 *.sh
 ./data/*.txt
+./models
